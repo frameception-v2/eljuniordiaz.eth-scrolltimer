@@ -1,6 +1,6 @@
 ```markdown
 ### Core
-[ ] Create serverless function for tracking start  
+[x] Create serverless function for tracking start  
 **Validation:** HTTP 200 response for valid requests (1hr)
 
 [ ] Generate shareable URL with encoded parameters  
