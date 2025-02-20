@@ -1,3 +1,3 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Farcaster Frames Template";
-export const PROJECT_DESCRIPTION = "A Farcaster Frames v2 Template by hellno";
+export const PROJECT_ID = 'ScrollTimer';
+export const PROJECT_TITLE = "ScrollTimer";
+export const PROJECT_DESCRIPTION = "A Farcaster Frame for tracking and sharing your scroll time on Base";
